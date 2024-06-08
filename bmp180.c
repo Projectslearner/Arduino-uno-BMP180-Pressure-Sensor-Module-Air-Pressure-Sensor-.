@@ -1,3 +1,10 @@
+/*
+    Project name : Arduino uno BMP180 Air Pressure Sensor Module
+    Modified Date: 08-06-2024
+    Code by : Projectslearner
+    Website : https://projectslearner.com/learn/arduino-uno-bmp180-air-pressure-sensor-module
+*/
+
 #include <Wire.h>
 #include <SFE_BMP180.h>
 
