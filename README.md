@@ -16,6 +16,10 @@ The project aims to measure temperature and pressure using the BMP180 sensor and
 - BMP180 SCL pin to Arduino A5 (SCL)
 - BMP180 SDA pin to Arduino A4 (SDA)
 
+
+### Block Diagram
+
+
 ### Instructions
 
 1. **Connect the Sensor:**
